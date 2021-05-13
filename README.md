@@ -1,1 +1,3 @@
-# Disaster-Tweets-Classification-Using-Glove-Embeddings-and-Ensembling-LSTM-s-and-GRU-s
+# Disaster-Tweets-Classification-Using-LSTM-s-and-GRU-s-and-Glove
+
+Dataset : https://www.kaggle.com/c/nlp-getting-started
